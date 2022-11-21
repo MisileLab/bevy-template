@@ -15,4 +15,4 @@ edition = "2021"
 bevy = { version = "0.9.0", features = ["dynamic"] }
 
 [dependencies.gilrs]
-version = "0.9.0"
+version = "0.10.1"
